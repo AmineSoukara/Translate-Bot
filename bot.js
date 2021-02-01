@@ -4,7 +4,7 @@ const fetch = require('node-fetch')
 const tts = require('google-tts-api');
 const translate = require('translation-google');
 
-var BOT_TOKEN = "YOUR:BOTTOKEN";
+var BOT_TOKEN = "1619102525:AAHqwKgUpYvFAisF3AhQkFKNpQmFo3HVLTA";
 
 const bot = new Telegraf(BOT_TOKEN)
 
